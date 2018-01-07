@@ -1,0 +1,23 @@
+/* CSS used here will be applied after bootstrap.css */
+
+.mainbody { 
+ background: url('/../assets/image/bg_suburb.jpg') no-repeat center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ padding-top: 2rem;
+  padding-bottom: 2rem;
+  height:100vh;
+  width: 100%;
+}
+
+form{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.card-body{
+        margin-bottom: 10px;
+    margin-top: 10px;
+}
